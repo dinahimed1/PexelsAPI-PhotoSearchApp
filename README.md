@@ -16,4 +16,4 @@ A website that lets user browse photos from Pexels. Initial page greets users wi
 
 
 ### Something to work on : 
-* Pagination for curated photos instead of the Search More button; allow users to go forward and bacward 10 photos at a time
+* Pagination for curated photos instead of the Search More button; allow users to go forward and backward 10 photos at a time
